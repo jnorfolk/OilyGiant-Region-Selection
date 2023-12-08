@@ -13,7 +13,8 @@ This project focuses on identifying the optimal locations for new oil wells for 
 - **Technologies Used:** Data analysis and modeling were performed using Python, with libraries like Pandas, NumPy, and Scikit-learn.
 
 ## Visuals
-Include screenshots from your notebook showing key plots or results, such as reserve distributions across regions, model performance metrics, or profit and risk analysis charts.
+![image](https://github.com/jnorfolk/OilyGiant-Region-Selection/assets/117448822/f246b58d-0d4b-4d51-82d6-527c330d0e03)
+
 
 ## Project Notebook
 [OilyGiant Project Notebook](https://github.com/jnorfolk/OilyGiant-Region-Selection/blob/main/OilyGiant.ipynb): Access the detailed Jupyter notebook for an in-depth look at the data analysis and modeling process.
