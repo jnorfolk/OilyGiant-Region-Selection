@@ -40,8 +40,10 @@ pip install pandas numpy scikit-learn
 ```
 
 #### 4. Run the Jupyter Notebook
-Install Jupyter Notebook (if not installed): `pip install notebook`
-Launch it: `jupyter notebook`
+Install Jupyter Notebook (if not installed): 
+`pip install notebook`
+Launch it: 
+`jupyter notebook`
 Navigate to and open the OilyGiant.ipynb file in the notebook interface.
 5. Deactivate the Virtual Environment (After Use)
 Run `deactivate` to exit the virtual environment.
